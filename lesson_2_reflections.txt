@@ -1,0 +1,2 @@
+1 - O que acontece ao iniciar um repositório? Por que você deve fazer isso?
+R - O repositório é importante para armazenar os commits, se não for iniciado não há como criar novos commits.

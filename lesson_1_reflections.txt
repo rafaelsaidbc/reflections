@@ -1,0 +1,19 @@
+é mais útil utilizar os comandos diff (linux) e fc (windows) para comparar arquivos, isso serve para verificar versões diferentes de um app, por exemplo, descobrir bugs, diferenças, etc...
+
+2 - Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+R - Isso ajuda a verificar as alterações realizadas, quais avanços foram alcançados, quais erros foram superados. Saber as alterações realizadas em um app ajuda a ser mais rápido e eficiente, conhecer os pontos fortes e fracos de um app.
+
+3 - Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+R - O salvamento manual permite escolher os pontos de criação dos commits, deixando-nos a opção de apontar pontos lógicos, facilitando a compreensão do código posteriormente. O salvamento automático não nos deixa margem para fazermos o que desejamo.
+
+4 - Porque você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+R - É simples, alguns arquivos estão inter-relacionados, por isso o Git salva seus commits juntos.
+
+5 - Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+R - O comando git log mostra os commits que foram realizados no arquivo, mostrando suas IDs (git log). O git diff mostra as diferenças entre dois arquivos através de suas IDs (git diff ID1 ID2).
+
+6 - De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+R - Comparando versões diferentes (usando o comando git checkout ID volta-se a uma versão anterior) e testando os apps, podemos saber quando um bug foi inserido no app, facilitando a busca pela solução do problema.
+
+7 - Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+R - Quero usar o Git ara aprimorar meus conhecimentos em programação e aprender a programas em Android.
