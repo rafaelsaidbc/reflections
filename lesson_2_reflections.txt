@@ -1,2 +1,5 @@
 1 - O que acontece ao iniciar um repositório? Por que você deve fazer isso?
 R - O repositório é importante para armazenar os commits, se não for iniciado não há como criar novos commits.
+
+2 - Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R - A área de preparação fornece um ambiente para realizar as alterações, como criar commits, adicionar arquivos, ainda deixando a opção de retornar ao passo anterior.
