@@ -3,3 +3,6 @@ R - Para projetos compartilhados com outras pessoas ou para utilização de mais
 
 2 - Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 R - Assim eu posso escolher o melhor momento para realizar o pull, evitando, por exemplo, tornar público um branch de testes.
+
+3- Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+R - Bifuracações são cópias de outros projetos no GitHub. Clones são as cópias de projetos, seja remoto ou local. Branches são divisões do código para realização de mudanças.
