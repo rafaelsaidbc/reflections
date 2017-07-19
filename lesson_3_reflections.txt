@@ -1,0 +1,2 @@
+1 - Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+R - Para projetos compartilhados com outras pessoas ou para utilização de mais de um dispositivo.
