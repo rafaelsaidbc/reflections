@@ -6,3 +6,6 @@ R - Assim eu posso escolher o melhor momento para realizar o pull, evitando, por
 
 3- Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 R - Bifuracações são cópias de outros projetos no GitHub. Clones são as cópias de projetos, seja remoto ou local. Branches são divisões do código para realização de mudanças.
+
+4 - Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+R - Para saber quais alterações foram realizadas desde o último acesso.
