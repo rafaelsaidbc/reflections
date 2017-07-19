@@ -9,3 +9,6 @@ R - Bifuracações são cópias de outros projetos no GitHub. Clones são as có
 
 4 - Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 R - Para saber quais alterações foram realizadas desde o último acesso.
+
+5 - Como você colaboraria sem usa Git ou GitHub? O que seria mais fácil e mais difícil?
+R - Não tenho resposta.
